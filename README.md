@@ -1,4 +1,4 @@
-# Hackintosh Configuration for Gigabyte Aero 15W
+# macOS Configuration for Gigabyte Aero 15W
 > In my opinion, this hackintosh you guys made are still too young, sometimes naive. -- The Elder.
 <img align="right" src="https://github.com/Errrneist/Hackintosh-Aero-15W/blob/master/img/critter.png" alt="Critter" width="250">
 
